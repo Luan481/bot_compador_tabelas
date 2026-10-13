@@ -1,0 +1,10 @@
+{
+  "tables": [
+    {
+      "schema": "public",
+      "table": "comparativo_fixas_mvp",
+      "key": ["codigo_produto"],
+      "columns": "*"
+    }
+  ]
+}

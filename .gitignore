@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.env
+config.json
+relatorio*.json
+*.somente-producao.txt
